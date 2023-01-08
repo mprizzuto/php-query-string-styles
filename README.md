@@ -7,3 +7,5 @@ css functions like blur() and grayscale()
 
 ## inspired by 
 [lorem picsum](https://picsum.photos/)
+<a href="https://picsum.photos/" target="_blank">lorem picsum</a>
+
