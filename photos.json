@@ -1,0 +1,18 @@
+[
+	{
+		"imagePath": "./images/flower.jpg",
+		"imageAlt": "a flower"
+	},
+	{
+		"imagePath": "./images/cat.jpg",
+		"imageAlt": "a cat"
+	},
+	{
+		"imagePath": "./images/mountain-sky.jpg",
+		"imageAlt": "a mountain sky"
+	},
+	{
+		"imagePath": "./images/sky.jpg",
+		"imageAlt": "a sky"
+	}
+]
