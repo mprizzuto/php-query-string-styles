@@ -1,0 +1,41 @@
+* {
+	color: red;
+}
+
+picture {
+	display: block;
+}
+
+picture img {
+	display: block;
+	height: auto;
+	width: 100%;
+}
+
+.photo-gallery-image {
+	width: 50vw;
+	max-width: 600px;
+}
+
+
+
+.blur {
+	filter: blur(4px);
+	max-width: 600px;
+}
+
+.grayscale {
+	filter: grayscale(1);
+}
+
+.grayscale-and-blur {
+	filter: grayscale(1) blur(4px);
+}
+
+.base-photo-style {
+	border: 4px solid gold;
+}
+
+mark {
+	background: gold;
+}
